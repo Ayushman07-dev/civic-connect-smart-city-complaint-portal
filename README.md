@@ -1,6 +1,8 @@
 # CivicConnect — Smart City Complaint Portal
 
 **Student:** Ayushman Kumar  
+**GR No.:** 136772  
+**Enrollment No.:** 92500118900  
 **Program:** B.Tech CSE (AI & ML)  
 **Semester:** 3
 
