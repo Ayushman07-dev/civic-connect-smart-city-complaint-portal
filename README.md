@@ -1,5 +1,9 @@
 # CivicConnect — Smart City Complaint Portal
 
+**Student:** Ayushman Kumar  
+**Program:** B.Tech CSE (AI & ML)  
+**Semester:** 3
+
 A responsive front-end student project built with HTML, CSS and vanilla JavaScript.
 
 ## Live demo
